@@ -1,3 +1,7 @@
+You can check this here: indecision.kocaman.xyz
+
+This is the last version of this project. The complete proccess how to get here will be upload with others react apps on other project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
