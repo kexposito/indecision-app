@@ -1,4 +1,4 @@
-You can check this here: indecision.kocaman.xyz
+You can check this here: http://indecision.kocaman.xyz
 
 This is the last version of this project. The complete proccess how to get here will be upload with others react apps on other project.
 
